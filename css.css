@@ -9,7 +9,7 @@
 /** tags */
 
   body {
-    background-image: url("Fondo_Estrellado_Horizontal.jpg");
+    background-image: url("Recursos/Fondo_Estrellado_Horizontal.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -130,7 +130,7 @@ h1 {
 
   
   body {
-    background-image: url("Fondo_Estrellado_Vertical.jpg");
+    background-image: url("Recursos/Fondo_Estrellado_Vertical.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -208,7 +208,7 @@ h1 {
 
   
   body {
-    background-image: url("Fondo_Estrellado_Vertical.jpg");
+    background-image: url("Recursos/Fondo_Estrellado_Vertical.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
